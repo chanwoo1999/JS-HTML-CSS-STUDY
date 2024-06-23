@@ -1,11 +1,4 @@
-<<<<<<< HEAD
-# JS-HTML-CSS-STUDY
-JS-HTML-CSS-STUDY
-=======
-<<<<<<< HEAD
-# JS-HTML-CSS-STUDY
-JS-HTML-CSS-STUDY
-=======
-# JS-HTMl-CSS-STUDY
->>>>>>> 6da31e4 (Initial commit)
->>>>>>> 4a5944d (feat: Initialize HTML-CSS project)
+#HTML-STUDY-TPJ-1
+
+###main-tes-1
+<img width="1019" alt="image_1" src="https://github.com/chanwoo1999/JS-HTML-CSS-STUDY/assets/80818801/c9965dcf-2fe3-409a-89f7-e25d23d3eb22">
