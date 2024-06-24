@@ -12,16 +12,17 @@
 
 /* ===== 변수 구간 ===== */
 :root {
-  --color-main: #FF4200;
+  --color-main: hsl(256, 95%, 66%);
   --color-sub: #00A200;
   --color-dark: #2F4858;
   --color-emph: #F10F5F;
   --color-text: #281812;
-  --color-lighter: #DC9C86;
+  --color-lighter: hsl(199, 100%, 57%);
   --color-light-bd: #FFE6D6;
-  --color-light-bg: #FFF5ED;
+  --color-light-bg: #ced7fa;
 
-  --font-code: 'Nanum Gothic Coding', monospace;;
+  --font-code: 'Nanum Gothic Coding', monospace;
+  ;
 
   --font-size-title: 44px;
   --font-size-subtitle: 32px;
@@ -42,7 +43,12 @@ body {
   min-height: 150vh;
 }
 
-h1, h2, h3, h4, h5, h6 {
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
   font-size: inherit;
   font-weight: normal;
   margin: 0;
@@ -52,42 +58,53 @@ p {
   margin: 0;
 }
 
-strong, em {
+strong,
+em {
   font-weight: inherit;
   font-style: normal;
 }
 
-ul, ol {
+ul,
+ol {
   margin: 0;
   padding: 0;
   list-style-type: none;
 }
 
-dl { margin: 0; }
+dl {
+  margin: 0;
+}
+
 dd {
   margin: 0;
   display: inline;
 }
 
-figure { margin: 0; }
+figure {
+  margin: 0;
+}
 
 a {
   text-decoration: none;
   color: inherit;
 }
 
-th { font-weight: normal; }
+th {
+  font-weight: normal;
+}
 
-address { font-style: inherit; }
+address {
+  font-style: inherit;
+}
 
 .sr-only {
-	position: absolute;
-	width: 1px;
-	height: 1px;
-	padding: 0;
-	margin: -1px;
-	overflow: hidden;
-	clip: rect(0, 0, 0, 0);
-	white-space: nowrap;
-	border-width: 0;
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  padding: 0;
+  margin: -1px;
+  overflow: hidden;
+  clip: rect(0, 0, 0, 0);
+  white-space: nowrap;
+  border-width: 0;
 }

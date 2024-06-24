@@ -20,7 +20,7 @@
   display: inline-flex;
   gap: 0.32em;
   font-family: var(--font-code);
-  font-size: 2.8em;
+  font-size: 2.8em; 
   font-weight: bold;
   color: white;
 }

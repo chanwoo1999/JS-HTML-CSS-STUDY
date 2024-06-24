@@ -22,9 +22,10 @@
 }
 
 .header__logo{
-  height: 48px;
+  height: 80px;
   vertical-align: middle;
-  margin-bottom: 4px;
+  margin-top: -25px;
+  border-radius: 50%;
 }
 
 .header__nav-item {
