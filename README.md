@@ -1,2 +1,2 @@
-# JS-HTML-CSS-STUDY
-chanwoo1999/JS-HTML-CSS-STUDY
+# Dev logs
+chanwoo1999/ I'm learning front-end technology..
